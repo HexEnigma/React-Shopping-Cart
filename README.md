@@ -2,6 +2,8 @@
 
 A responsive shopping cart built with React (Vite) and the Context API.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-c94e2a?style=for-the-badge)](https://react-shopping-cart-pi-three.vercel.app/)
+
 ## Features
 - Product grid with image, title, category and price
 - Search and category filter
